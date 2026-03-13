@@ -53,7 +53,7 @@ int main(void) {
 }
 ```
 ## Output
-[def]
+![def]
 ---
 
 ## Result
