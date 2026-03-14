@@ -2,10 +2,11 @@
   <img src="logo.png" alt="Logo" width="500">
 </p>
 <p align="center">
-    **19EC527: Real Time Operating System using QNX
+    19EC527: Real Time Operating System using QNX
 </p>
-**Table of Contents
-
+<p align="center">
+    Table of Contents
+</p>
 | Exp. No. | Date | Experiment Title | QR Code | Marks | Signature |
 |---------|------|------------------|--------|------|-----------|
 | 1 | 03/02/2026 | Experiment-101: “Hello World” Application on QNX: VMware Virtual Machine and Raspberry Pi.<br> <<paste your GitHub Repo link here>> |  |  |  |
@@ -22,10 +23,10 @@ I confirm that the experiments and GitHub Links provided are entirely my own wor
 **Name:**  
 
 <p align="right">
-    **Register Number:**  
+    <b>Register Number:<\b>  
 </p>
 
 **Date:**
 <p align="right">
-    **Learner Signature:**  
+    <b>Learner Signature:<\b>  
 </p>
